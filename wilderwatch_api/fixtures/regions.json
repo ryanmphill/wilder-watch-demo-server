@@ -1,0 +1,121 @@
+[
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 1,
+        "fields": {
+            "label": "North America"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 2,
+        "fields": {
+            "label": "Europe"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 3,
+        "fields": {
+            "label": "Asia"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 4,
+        "fields": {
+            "label": "Africa"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 5,
+        "fields": {
+            "label": "South America"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 6,
+        "fields": {
+            "label": "North America > United States"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 7,
+        "fields": {
+            "label": "North America > Canada"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 8,
+        "fields": {
+            "label": "Europe > United Kingdom"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 9,
+        "fields": {
+            "label": "Europe > France"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 10,
+        "fields": {
+            "label": "Asia > China"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 11,
+        "fields": {
+            "label": "Asia > Middle East"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 11,
+        "fields": {
+            "label": "Asia > Southeast"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 12,
+        "fields": {
+            "label": "Asia > North"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 13,
+        "fields": {
+            "label": "Africa > West"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 14,
+        "fields": {
+            "label": "Africa > East"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 15,
+        "fields": {
+            "label": "Africa > South"
+        }
+    },
+    {
+        "model": "wilderwatch_api.region",
+        "pk": 16,
+        "fields": {
+            "label": "Central America"
+        }
+    }
+]
